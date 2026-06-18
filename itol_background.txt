@@ -1,0 +1,29 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+
+#START_LEAF	TYPE	COLOR	END_LEAF
+
+# F. sarcochroum complex
+F_sarcochroum_CPC_27921	range	#eceff1	F_sarcochroum_CPC_26369
+
+# F. ensiforme complex
+F_ensiforme_CPC_27191	range	#ffe0b2	F_ensiforme_CPC_27190
+
+# F. salinense complex
+F_salinense_CPC_26973	range	#f3e5f5	F_salinense_CPC_26403
+
+# F. citricola complex
+F_citricola_CPC_27813	range	#fef0d9	F_citricola_CPC_27067
+
+# VMFi101 Outgroup
+VMFi101	range	#e0f2f1	VMFi101
+
+# F. incarnatum complex
+F_incarnatum_LC_13705	range	#ccffeb	F_incarnatum_NRRL_32866
+
+# F. siculi complex
+F_siculi_CPC_27188	range	#e8f0fe	F_siculi_CPC_27189
+
+# F. oxysporum complex
+F_oxysporum_CPC_27700	range	#ffccd5	F_oxysporum_CPC_27702
